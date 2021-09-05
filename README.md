@@ -3,7 +3,7 @@
 
 ## Command Line Options
 /tr enable
-tr disable
+/tr disable
 
 if you type /tr with no argument it will just print the help which is the same as the addon loading message.
 
